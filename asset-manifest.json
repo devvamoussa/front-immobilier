@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/front-immobilier/static/css/main.6839fe46.css",
+    "main.js": "/front-immobilier/static/js/main.c1fe1e60.js",
+    "static/js/787.996365d5.chunk.js": "/front-immobilier/static/js/787.996365d5.chunk.js",
+    "static/media/bacgroungImage1.png": "/front-immobilier/static/media/bacgroungImage1.b668d9db614756a3b975.png",
+    "static/media/BIA-icone.jpg": "/front-immobilier/static/media/BIA-icone.0606c14e606adfe7864c.jpg",
+    "static/media/home4.jpg": "/front-immobilier/static/media/home4.31746e146295af4dfe3e.jpg",
+    "static/media/home2.jpg": "/front-immobilier/static/media/home2.06636f18cfa0bc3b6fb4.jpg",
+    "static/media/imageAdd.png": "/front-immobilier/static/media/imageAdd.121d1c79f0aaa19a07d9.png",
+    "index.html": "/front-immobilier/index.html",
+    "main.6839fe46.css.map": "/front-immobilier/static/css/main.6839fe46.css.map",
+    "main.c1fe1e60.js.map": "/front-immobilier/static/js/main.c1fe1e60.js.map",
+    "787.996365d5.chunk.js.map": "/front-immobilier/static/js/787.996365d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6839fe46.css",
+    "static/js/main.c1fe1e60.js"
+  ]
+}
